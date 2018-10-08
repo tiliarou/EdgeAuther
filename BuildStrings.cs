@@ -18,7 +18,7 @@ namespace EdgeAuther
         public static byte[] dauth_kek_05 = { 0x2f, 0x04, 0xf7, 0xc8, 0xba, 0x01, 0x93, 0xd7, 0xfc, 0xda, 0xc6, 0x0a, 0xa4, 0xb7, 0xd5, 0x05 };
 
         public static string Client_ID = "41f4a6491028e3c4";
-        public static string UserAgent = "libcurl (nnHttp; 789f928b-138e-4b2f-afeb-1acae821d897; SDK 6.4.0.0; Add-on 6.4.0.0)";
+        public static string UserAgent = "libcurl (nnDauth; 789f928b-138e-4b2f-afeb-1acae821d897; SDK 6.4.0.0; Add-on 6.4.0.0)";
         public static string Challenge = "key_generation=6";
         public const string SysDigest = "gW93A#00060000#9k9lgdev3glK0ltQTdWmdK7jU1BL9oWNJRAFkQpHUYI=";
 
